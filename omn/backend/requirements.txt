@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+aiofiles
+openai
+sqlalchemy[asyncio]
+asyncpg
+alembic
+anthropic
+requests
