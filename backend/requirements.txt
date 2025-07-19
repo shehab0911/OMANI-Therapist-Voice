@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+aiofiles
+openai
+sqlalchemy[asyncio]
+asyncpg
+alembic
+anthropic
+requests
+azure-cognitiveservices-speech
+python-dotenv
+httpx
+python-multipart
+websockets
